@@ -1,0 +1,31 @@
+(Cena 1: Você aparece na câmera, fundo neutro ou escritório. Tom sério e engajado.)
+
+Você: "Olá! Eu sou Henrique, do curso de Análise e Desenvolvimento de Sistemas da FIAP. Hoje, quero falar sobre um número assustador: 85 milhões. Segundo o Fórum Econômico Mundial, esse é o número de empregos que podem ser deslocados pela automação até 2025. Empresas enfrentam um dilema cruel: demitir talentos leais cujas funções se tornaram obsoletas ou gastar fortunas tentando contratar novos profissionais de tecnologia que o mercado não tem."
+
+(Cena 2: Corta para slides ou B-roll mostrando manchetes sobre IA e demissões, depois transição para o logo da SYMBIO.)
+
+Você (Voz em off): "Mas e se a mesma Inteligência Artificial que ameaça esses empregos pudesse ser a chave para salvá-los? Apresentamos a SYMBIO. Uma plataforma de inteligência corporativa que transforma o risco da automação em oportunidade de requalificação."
+
+(Cena 3: Você volta para a câmera, sorriso confiante.)
+
+Você: "A SYMBIO não é apenas mais uma plataforma de cursos. Nós somos um 'Tinder de Carreiras' interno para grandes empresas. Nossa IA analisa o perfil oculto dos seus colaboradores e encontra o match perfeito com as vagas do futuro que você já tem abertas."
+
+(Cena 4: Demonstração do Produto - Screencast do seu Front-End e Admin CLI.)
+
+Você (Voz em off enquanto mostra a tela): "Deixe-me mostrar como funciona. Aqui no nosso painel administrativo, construído em Python, cadastramos um novo cargo. Em vez de adivinhar, nossa IA analisa métricas de repetitividade e criatividade e classifica o risco de automação em tempo real."
+
+(Mostre o terminal Python a rodar e a classificar um cargo como "ALTO Risco")
+
+Você: "No nosso Dashboard, o RH vê instantaneamente quem está em risco. Mas a mágica acontece aqui: o sistema identifica que a Maria, uma atendente de telemarketing, tem as soft skills exatas para ser uma Customer Success Manager. A SYMBIO faz o match, sugere a transição e salva o emprego da Maria, economizando milhares de reais em rescisão e contratação para a empresa."
+
+(Cena 5: Volta para você ou Slide de Modelo de Negócio.)
+
+Você: "Nosso modelo é B2B SaaS (Software as a Service). Cobramos uma assinatura mensal baseada no número de vidas monitoradas. Para a empresa, o ROI é claro: reter e requalificar um funcionário custa, em média, 50% menos do que demitir e contratar um novo. Além disso, protegemos a cultura organizacional."
+
+(Cena 6: Slides sobre ODS e Impacto.)
+
+Você: "Estamos diretamente alinhados com o ODS 8 da ONU: Trabalho Decente e Crescimento Econômico. A SYMBIO usa a tecnologia não para substituir o humano, mas para evoluí-lo, garantindo que ninguém seja deixado para trás na revolução da IA."
+
+(Cena 7: Fechamento. Você na câmera.)
+
+Você: "O futuro do trabalho não precisa ser sobre homens versus máquinas. Pode ser sobre simbiose. Com a SYMBIO, transformamos o medo da substituição na potência da evolução. Eu sou Henrique, e essa é a SYMBIO. Obrigado."
